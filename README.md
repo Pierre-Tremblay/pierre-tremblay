@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Je suis Pierre Tremblay</h1>
+<h1 align="center">Hello 👋, je suis Pierre Tremblay</h1>
 <h3 align="center">Alternant concepteur développeur d'application Java</h3>
 
 ![](https://komarev.com/ghpvc/?username=pierre-tremblay&color=brightgreen&label=Nombre+de+visites+:)
