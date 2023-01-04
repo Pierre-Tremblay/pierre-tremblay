@@ -9,6 +9,8 @@
 
 - 📄 Retrouver mon CV [https://tinyurl.com/mry9j8vv](https://tinyurl.com/mry9j8vv)
 
+- ⚡ Mon alternance se termine le **1er septembre 2023**
+
 <h3 align="left">Retouvez moi ici:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pierre-tremblay-developpeur-full-stack-java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierre-tremblay-developpeur-full-stack-java" height="30" width="40" /></a>
