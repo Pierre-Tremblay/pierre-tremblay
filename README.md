@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=pierre-tremblay&color=blue&label=Nombre+de+visites+:)
 
+- 👔 Alternant au sein de **SII**
+
 - 🌱 J'apprends actuellement **Java,JavaFX**
 
 - 📫 Pour me contacter **pierre.tremblay.1995@gmail.com**
